@@ -1,4 +1,4 @@
-# Bluetooth Integrated Temperature Control System
+# Bluetooth Integrated Industrial Furnace Temperature Control System
 
 This project uses an Arduino to read temperature data from a sensor, display it on an LCD, and send the data via Bluetooth (BLE) to an iOS device. On the iOS side, a modern SwiftUI interface displays the data in a stylish format, showing the mode (Heating/Cooling/Stable), the set point, and the current temperature.
 
